@@ -23,4 +23,8 @@ The database dump file (`newwheels_dump.sql`) contains multiple related tables, 
 
 ---
 
+## 📌 ER Diagram
+
+<img width="1736" height="549" alt="image" src="https://github.com/user-attachments/assets/5686ee20-ab83-4dfc-a967-8245a373d73e" />
+
 
